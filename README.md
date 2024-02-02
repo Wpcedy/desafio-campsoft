@@ -1,5 +1,8 @@
 # Desafio Campsoft
 
+# Repositório
+- https://github.com/Wpcedy/desafio-campsoft
+
 # Requisitos
 - PHP 7.4.3
 - MySQL
@@ -7,7 +10,7 @@
 
 ## Configurando
 
-Antes de tudo é necessário ter o PHP (no mínimo 7.4.3), Apache e o MySQL instalados para facilitar recomendo o [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/), não esquecer de instalar o phpmyadmin para ajuda, além de instalar o Apache e o MySQL.
+Antes de tudo é necessário ter o PHP (no mínimo 7.4.3), Apache e o MySQL instalados para facilitar recomendo o [XAMPP](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.4.33/), não esquecer de instalar o phpmyadmin para ajudar, além de instalar o Apache e o MySQL.
 
 Baixar o projeto e configurar o arquivo api/Model/DB.php alterando a base e as outras informações caso necessário.
 
